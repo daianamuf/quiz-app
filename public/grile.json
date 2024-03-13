@@ -1,0 +1,1135 @@
+{
+  "questions": [
+    {
+      "question": "Care dintre afirmațiile de mai jos este adevărată?",
+      "answers": [
+        "a)reacțiile inflamatorii au etape evolutive diferite influențate de tipul agentului flogogen",
+        "b)reacțiile inflamatorii au etape evolutive identice influențate de tipul agentului flogogen",
+        "c)reacțiile inflamatorii au etape evolutive identice neinfluențate de tipul agentului flogogen",
+        "d)reacțiile inflamatorii au etape evolutive diferite neinfluențate de tipul agentului flogogen",
+        "e)reacțiile inflamatorii nu au etape evolutive fiind influențate de tipul agentului flogogen"
+      ],
+      "correct_answer": "c)reacțiile inflamatorii au etape evolutive identice neinfluențate de tipul agentului flogogen"
+    },
+    {
+      "question": "Care dintre manifestările patologice menționate mai jos intră în categoria inflamațiilor?",
+      "answers": [
+        "a)fibroza pulmonară",
+        "b)congestia renală",
+        "c)encefaloză",
+        "d)perihepatită",
+        "e)miodistrofia"
+      ],
+      "correct_answer": "d)perihepatită"
+    },
+    {
+      "question": "Manifestările locale ale procesului inflamator sunt reprezentate de: ",
+      "answers": [
+        "a)alterări tisulare induse de factorul flogogen și reacții de protecție ale organismului;",
+        "b)degenerări tisulare induse de factorul flogogen și reacții de protecție ale organismului;",
+        "c)inflamații tisulare induse de factorul flogogen și reacții de protecție ale organismului;",
+        "d)alterări tisulare și reacții de compensare ale organismului;",
+        "e)alterări tisulare și reacții de adaptare ale organismului."
+      ],
+      "correct_answer": "a)alterări tisulare induse de factorul flogogen și reacții de protecție ale organismului;"
+    },
+    {
+      "question": "Inflamația constituie o componentă a: ",
+      "answers": [
+        "a)liniei I de apărare nespecifică a organismului;",
+        "b)liniei II de apărare nespecifică a organismului;",
+        "c)liniei III de apărare nespecifică a organismului;",
+        "d)liniei III de apărare specifică a organismului;",
+        "e)liniei IV de apărare specifică a organismului."
+      ],
+      "correct_answer": "b)liniei II de apărare nespecifică a organismului;"
+    },
+    {
+      "question": "Reacțiile de protecție ale organismului, derulate în cadrul inflamației sunt grupate în următoarele categorii de procese: ",
+      "answers": [
+        "a)procese vasculo-proliferative și alterative;",
+        "b)procese vasculo-alterative și degenerative;",
+        "c)procese vasculo-exudative și proliferative;",
+        "d)procese vasculo-degenerative și alterative; ",
+        "e)procese vasculo-prolioferative și alterative."
+      ],
+      "correct_answer": "c)procese vasculo-exudative și proliferative;"
+    },
+    {
+      "question": "Rubor, semn cardinal al inflamației, presupune: ",
+      "answers": [
+        "a)roburarea țesutului inflamat;",
+        "b)sensibilitate dureroasă a țesutului inflamat;",
+        "c)creșterea temperaturii țesutului inflamat;",
+        "d)înroșirea țesutului inflamat;",
+        "e)hiperglicemie."
+      ],
+      "correct_answer": "d)înroșirea țesutului inflamat;"
+    },
+    {
+      "question": "Calor, semn cardinal al inflamației, presupune:  ",
+      "answers": [
+        "a)tumefierea țesutului inflamat;",
+        "b)sensibilitatea dureroasă a țesutului inflamat;",
+        "c)creșterea temperaturii țesutului inflamat;",
+        "d)colorarea țesutului inflamat;",
+        "e)hipercalcemie."
+      ],
+      "correct_answer": "c)creșterea temperaturii țesutului inflamat;"
+    },
+    {
+      "question": "Dolor, semn cardinal al inflamației, presupune:  ",
+      "answers": [
+        "a)dilatarea țesutului inflamat;",
+        "b)sensibilitate dureroasă a țesutului inflamat;",
+        "c)creșterea temperaturii țesutului inflamat;",
+        "d)înroșirea țesutului inflamat;",
+        "e)febra."
+      ],
+      "correct_answer": "b)sensibilitate dureroasă a țesutului inflamat;"
+    },
+    {
+      "question": "Tumor, semn cardinal al inflamației, presupune: ",
+      "answers": [
+        "a)tumefierea țesutului inflamat;",
+        "b)evoluția în sens tumoral a țesutului inflamat;",
+        "c)creșterea temperaturii țesutului inflamat;",
+        "d)înroșirea țesutului inflamat;",
+        "e)febra."
+      ],
+      "correct_answer": "a)tumefierea țesutului inflamat;"
+    },
+    {
+      "question": "Intensitatea semnelor cardinale ale reacțiilor inflamatorii este mai mare în cazul: ",
+      "answers": [
+        "a)formelor acute și generalizate;",
+        "b)formelor acute și localizate;",
+        "c)formelor cronice și localizate;",
+        "d)formelor cronice și generalizate;",
+        "e)formelor inaparente."
+      ],
+      "correct_answer": "b)formelor acute și localizate;"
+    },
+    {
+      "question": "Care dintre manifestările patologice menționate mai jos nu intră în categoria inflamațiilor? ",
+      "answers": [
+        "a)dermatită;",
+        "b)perinefrită;",
+        "c)hepatită;",
+        "d)miocardoză;",
+        "e)perihepatita."
+      ],
+      "correct_answer": "d)miocardoză;"
+    },
+    {
+      "question": "În tractusul gastrointestinal (TGI) de șoc decompensat (insuficiență de organ) se constată: ",
+      "answers": [
+        "a)vasocoonstricție;",
+        "b)amplificarea funcțiilor motorii și secretorii ale TGI;",
+        "c)leziuni, infecții suprapuse și toxiemie;",
+        "d)hiperglicemie;",
+        "e)embolie."
+      ],
+      "correct_answer": "c)leziuni, infecții suprapuse și toxiemie;"
+    },
+    {
+      "question": "Care dintre manifestările patologice menționate mai jos desemnează inflamația capsulei hepatice:  ",
+      "answers": [
+        "a)capsulită hepatică;",
+        "b)perihepatită;",
+        "c)perihepatoză;",
+        "d)hepatită;",
+        "e)hepatoza."
+      ],
+      "correct_answer": "b)perihepatită;"
+    },
+    {
+      "question": "Reacția inflamatorie consecutivă nidației zigotului intră în categoria inflamațiilor:  ",
+      "answers": [
+        "a)cronice;",
+        "b)septice;",
+        "c)fiziologice;",
+        "d)normoergice;",
+        "e)generale."
+      ],
+      "correct_answer": "c)fiziologice;"
+    },
+    {
+      "question": "Reacțiile inflamatorii consecutive acțiunii factorilor flogogeni mecanici intră în categoria inflamațiilor:",
+      "answers": [
+        "a)mecanice;",
+        "b)septice;",
+        "c)hiperergice;",
+        "d)neimunologice;",
+        "e)imunologice."
+      ],
+      "correct_answer": "d)neimunologice;"
+    },
+    {
+      "question": "Reacțiile inflamatorii consecutive acțiunii factorilor flogogeni biotici intră în categoria inflamațiilor:",
+      "answers": [
+        "a)biogene;",
+        "b)septice;",
+        "c)hiperergice;",
+        "d)imunologice",
+        "e)acute."
+      ],
+      "correct_answer": "b)septice;"
+    },
+    {
+      "question": "Reacțiile inflamatorii generate pe fondul hipersensibilizării specifice intră în categoria inflamațiilor:",
+      "answers": [
+        "a)imunologice;",
+        "b)hipersensibilizante;",
+        "c)hiperergice;",
+        "d)septice;",
+        "e)neimunologice."
+      ],
+      "correct_answer": "a)imunologice;"
+    },
+    {
+      "question": "Reacțiile inflamatorii acute sunt caracterizate de:",
+      "answers": [
+        "a)manifestarea plenară a semnelor cardinale ale inflamației;",
+        "b)predominarea proceselor proliferative;",
+        "c)evoluție cu durată crescută;",
+        "d)anemie.",
+        "e)predominarea proceselor vasculo-exudative."
+      ],
+      "correct_answer": "a)manifestarea plenară a semnelor cardinale ale inflamației;"
+    },
+    {
+      "question": "Reacțiile inflamatorii acute sunt caracterizate de:",
+      "answers": [
+        "a)manifestarea discretă a semnelor cardinale ale inflamației;",
+        "b)predominarea proceselor vasculo-exudative;",
+        "c)evoluție cu durată crescută;",
+        "d)anemie;",
+        "e)predominarea proceselor proliferative."
+      ],
+      "correct_answer": "b)predominarea proceselor vasculo-exudative;"
+    },
+    {
+      "question": "Reacțiile inflamatorii cronice sunt caracterizate de:",
+      "answers": [
+        "a)manifestarea discretă a semnelor cardinale ale inflamației;",
+        "b)predominarea proceselor vasculo-exudative;",
+        "c)evoluție cu durată scurta;",
+        "d)anemie;",
+        "e)predominarea proceselor degenerative."
+      ],
+      "correct_answer": "a)manifestarea discretă a semnelor cardinale ale inflamației;"
+    },
+    {
+      "question": "Reacțiile inflamatorii cronice sunt caracterizate de:",
+      "answers": [
+        "a)manifestarea plenară a semnelor cardinale ale inflamației;",
+        "b)predominarea proceselor vasculo-exudative;",
+        "c)evoluție cu durată crescută;",
+        "d)anemie;",
+        "e)evolutie cu durata scurta."
+      ],
+      "correct_answer": "c)evoluție cu durată crescută;"
+    },
+    {
+      "question": "Reacția inflamatorie derulează, în ordine, următoarele etape:",
+      "answers": [
+        "a)vasculară- celulară- reparație tisulară;",
+        "b)vasculară- tisulară- reparație tisulară;",
+        "c)celulară- vasculară- reparație tisulară;",
+        "d)celulară- tisulară- reparație tisulară;",
+        "e)celulară- vasculara- tisulară."
+      ],
+      "correct_answer": "a)vasculară- celulară- reparație tisulară;"
+    },
+    {
+      "question": "Faza I a etapei vasculare a reacției inflamatorii se concretizează prin:",
+      "answers": [
+        "a)vasodilatație arterio-capilară;",
+        "b)vasoconstricție arterio-capilară;",
+        "c)vasoconstricție venoasă (postacapilară);",
+        "d)anemie;",
+        "e)vasodilatatie venoasa."
+      ],
+      "correct_answer": "b)vasoconstricție arterio-capilară;"
+    },
+    {
+      "question": "Manifestările fazei I a etapei vasculare a reacției inflamatorii se datorează:",
+      "answers": [
+        "a)derulării unui reflex cortical;",
+        "b)catecolaminelor;",
+        "c)limfocitelor;",
+        "d)hipoglicemiei;",
+        "e)mediatorilor chimici."
+      ],
+      "correct_answer": "b)catecolaminelor;"
+    },
+    {
+      "question": "Faza a II-a a etapei vasculare a reacției inflamatorii se concretizează prin:",
+      "answers": [
+        "a)vasodilatație arterio-capilară și venoasă (postcapilară), urmată de vasoconstricție venoasă;",
+        "b)vasodilatație arterio-capilară și venoasă (postcapilară), urmată de vasoconstricție arteriocapilară;",
+        "c)vasodilatație arterio-capilară și vasoconstricție venoasă (postcapilară), urmată de vasodilatație arterio-capilară și venoasă;",
+        "d)vasodilatație arterio-capilară și vasoconstricție venoasă (postcapilară), urmată de vasoconstricție arterio-capilară și venoasă;",
+        "e)vasodilatație arterio-capilară, urmată de vasoconstricție arterio-capilară și venoasă."
+      ],
+      "correct_answer": "c)vasodilatație arterio-capilară și vasoconstricție venoasă (postcapilară), urmată de vasodilatație arterio-capilară și venoasă."
+    },
+    {
+      "question": "Manifestările fazei a II-a a etapei vasculare a reacției inflamatorii, care se concretizează prin vasodilatație arterio-capilară și vasoconstricție venoasă (postcapilară), se datorează:",
+      "answers": [
+        "a)derulării unui reflex antidromic și a unor mediatori solubili ai inflamației;",
+        "b)catecolaminelor și a unor mediatori solubuili ai inflamației;",
+        "c)derulării unui reflex parasimpatic și a unor mediatori solubili ai inflamației; CORECT",
+        "d)derulării unui reflex vascular și a unor mediatori solubili ai inflamației;",
+        "e)acetilcolinei și a unor mediatori solubuili ai inflamației."
+      ],
+      "correct_answer": "c)derulării unui reflex parasimpatic și a unor mediatori solubili ai inflamației;"
+    },
+    {
+      "question": "Mediatorii solubili ai inflamației, care se implică în inducerea fazei a II-a a etapei vasculare a reacției inflamatorii, care se concretizează prin vasodilatație arterio-capilară și vasoconstricție venoasă (postcapilară), sunt:",
+      "answers": [
+        "a)histamina și bradikinina;",
+        "b)histamina și PAF; CORECT",
+        "c)histamina și prostaglandinele I și E;",
+        "d)histamina și oxidul nitric;",
+        "e)TNF."
+      ],
+      "correct_answer": "b)histamina și PAF;"
+    },
+    {
+      "question": "Manifestările fazei a II-a a etapei vasculare a reacției inflamatorii, care se concretizează prin vasodilatație arterio-capilară și venoasă (postcapilară), se datorează:",
+      "answers": [
+        "a)derulării unui reflex antidromic;",
+        "b)catecolaminelor;",
+        "c)derulării unui reflex parasimpatic;",
+        "d) unor mediatori solubili ai inflamației; CORECT",
+        "e)acetilcolinei."
+      ],
+      "correct_answer": "d) unor mediatori solubili ai inflamației;"
+    },
+    {
+      "question": "În categoria mediatorii solubili ai inflamației, care se implică în inducerea fazei a II-a a etapei vasculare a reacției inflamatorii, care se concretizează prin vasodilatație arterio-capilară și venoasă (postcapilară), se găsesc:",
+      "answers": [
+        "a)histamina catecolaminele și bradikinina;",
+        "b)histamina, citokinele și PAF;",
+        "c)bradikinina, oxidul nitric și citokinele;",
+        "d)histamina, bradikinina și prostaglandinele I și E; CORECT",
+        "e)TNF si oxidul nitric."
+      ],
+      "correct_answer": "d)histamina, bradikinina și prostaglandinele I și E;"
+    },
+    {
+      "question": "Efectele fazei a II-a a etapei vasculare a reacției inflamatorii se concretizează prin:",
+      "answers": [
+        "a)stază (pooling); CORECT",
+        "b)plasmexodie;",
+        "c)hemoconcentrație (sludge);",
+        "d)edem;",
+        "e)necroza."
+      ],
+      "correct_answer": "a)stază (pooling);"
+    },
+    {
+      "question": "Faza a II-a a etapei vasculare a reacției inflamatorii are o durată de circa:",
+      "answers": [
+        "a)2 ore;",
+        "b)6 ore;",
+        "b)12 ore;",
+        "c)24 ore: CORECT",
+        "e)36 ore."
+      ],
+      "correct_answer": "c)24 ore:"
+    },
+    {
+      "question": "Activarea sistemului complement are loc în cursul:",
+      "answers": [
+        "a)etapei celulare (complementare) a reacției inflamatorii;",
+        "b)etapei tisulare a reacției inflamatorii;",
+        "c)etapei vasculare a reacției inflamatorii; CORECT",
+        "d)etapei de reconstrucție tisulară a reacției inflamatorii;",
+        "e)etapei tisularo-vasculare."
+      ],
+      "correct_answer": "c)etapei vasculare a reacției inflamatorii;"
+    },
+    {
+      "question": "Activarea sistemului coagulazelor are loc în cursul:",
+      "answers": [
+        "a)etapei celulare a reacției inflamatorii;",
+        "b)etapei hemoragico-tisulare a reacției inflamatorii;",
+        "c)etapei vasculare a reacției inflamatorii; CORECT",
+        "d)etapei de reconstrucție tisulară a reacției inflamatorii;",
+        "e)etapei vasculo-tisulare."
+      ],
+      "correct_answer": "c)etapei vasculare a reacției inflamatorii;"
+    },
+    {
+      "question": "Faza a III-a a etapei vasculare a reacției inflamatorii se concretizează prin:",
+      "answers": [
+        "a)creșterea permeabilității vasculare;",
+        "b)vasodilatație arterio-capilară și venoasă (postcapilară), urmată de vasoconstricție venoasă;",
+        "c)vasoconstricție arterio-capilară și venoasă (postcapilară), urmată de vasodilatație arteriocapilară;",
+        "d)diapedeză;",
+        "e)pooling."
+      ],
+      "correct_answer": "a)creșterea permeabilității vasculare;"
+    },
+    {
+      "question": "Faza a III-a a etapei vasculare a reacției inflamatorii este indusă printre altele și de:",
+      "answers": [
+        "a)hipoxie și acidoza consecutivă;",
+        "b)catecolamine;",
+        "c)oxidul nitric;",
+        "d)PAF;",
+        "e)acetilcolina."
+      ],
+      "correct_answer": "a)hipoxie și acidoza consecutivă;"
+    },
+    {
+      "question": "Faza a III-a a etapei vasculare a reacției inflamatorii este indusă printre altele și de:",
+      "answers": [
+        "a)oxidul nitric și citokinele;",
+        "b)catecolaminele și leucotrienele;",
+        "c)histamina și bradikinina;",
+        "d)PAF și citokinele;",
+        "e)oxidul nitric."
+      ],
+      "correct_answer": "c)histamina și bradikinina;"
+    },
+    {
+      "question": "Efectul major al fazei a III-a a etapei vasculare a reacției inflamatorii se concretizează prin:",
+      "answers": [
+        "a)congestie",
+        "b)plasmexodie;",
+        "c)hemodiluție;",
+        "d)eritem;",
+        "e)acidoza."
+      ],
+      "correct_answer": "b)plasmexodie;"
+    },
+    {
+      "question": "Plasmexodia, consecutivă fazei a III-a a etapei vasculare a reacției inflamatorii, induce:",
+      "answers": [
+        "a)formarea transudatului inflamator și a edemului;",
+        "b)formarea exudatului inflamator și a edemului;",
+        "c)formarea transudatului inflamator și stază;",
+        "d)formarea exudatului inflamator și ischemie;",
+        "e)formarea transudatului inflamator."
+      ],
+      "correct_answer": "b)formarea exudatului inflamator și a edemului;"
+    },
+    {
+      "question": "Acumularea exudatului inflamator în țesutul inflamat amplifică:",
+      "answers": [
+        "a)alcaloza;",
+        "b)ischemia;",
+        "c)staza;",
+        "d)diapedeza;",
+        "e)fagocitoza."
+      ],
+      "correct_answer": "c)staza;"
+    },
+    {
+      "question": "Valoarea inițială a pH-ului exudatului inflamator, la care neutrofilele își derulează în condiții optime funcțiile specifice este:",
+      "answers": [
+        "a)7,2;",
+        "b)6,6;",
+        "c)5;",
+        "d)mai mic de 5;",
+        "e)mai mare de 7,5."
+      ],
+      "correct_answer": "a)7,2;"
+    },
+    {
+      "question": "Valoarea pH-ului exudatului inflamator, la care neutrofilele sunt distruse dar macrofagele persistă, este:",
+      "answers": [
+        "a)7,2;",
+        "b)6,6;",
+        "c)5;",
+        "d)mai mic de 5;",
+        "e)mai mare de 7,5."
+      ],
+      "correct_answer": "b)6,6;"
+    },
+    {
+      "question": "Valoarea pH-ului exudatului inflamator, la care toate leucocitele sunt distruse, rezultând puroiul, este:",
+      "answers": ["a)7,35;", "b)7,2;", "c)6,6;", "d)5;", "e)mai mare de 7,5."],
+      "correct_answer": "d)5;"
+    },
+    {
+      "question": "La periferia focarului inflamator se constituie o structură morfofuncțională cu rol de limitare a difuziei, denumită:",
+      "answers": [
+        "a)barieră fibrinoasă;",
+        "b)barieră imuno-leucocitară;",
+        "c)barieră fibrino-leucocitară;",
+        "d)barieră fibrino-imuno-leucocitară;",
+        "e)bariera hemato-fibrinoasa."
+      ],
+      "correct_answer": "d)barieră fibrino-imuno-leucocitară;"
+    },
+    {
+      "question": "Printre modificările metabolice instituite pe parcursul fazei a III-a a etapei vasculare a reacției inflamatorii, se numără:",
+      "answers": [
+        "a)intensificarea glicolizei aerobe;",
+        "b)intensificarea catabolismului proteinelor;",
+        "c)scăderea presiunii osmotice în focar;",
+        "d)alcaloză metabolică;",
+        "e)intensificarea anabolismului protidic."
+      ],
+      "correct_answer": "b)intensificarea catabolismului proteinelor;"
+    },
+    {
+      "question": "În categoria celulelor proinflamatorii intră și:",
+      "answers": [
+        "a)granulocitele neutrofile;",
+        "b)plachetele sanguine;",
+        "c)granulocitele bazofile;",
+        "d)mastocitele;",
+        "e)plasmocitele."
+      ],
+      "correct_answer": "a)granulocitele neutrofile;"
+    },
+    {
+      "question": "În categoria celulelor proinflamatorii intră și:",
+      "answers": [
+        "a)celulele endoteliale;",
+        "b)macrofagele;",
+        "c)granulocitele bazofile;",
+        "d)mastocitele;",
+        "e)limfocitele."
+      ],
+      "correct_answer": "b)macrofagele;"
+    },
+    {
+      "question": "Celulele proinflamatorii sunt susținute funcțional de un grup de celule din care fac parte:",
+      "answers": [
+        "a)granulocitele eozinofile;",
+        "b)celulele endoteliale;",
+        "c)macrofagele;",
+        "d)gtranulocitele neutrofile;",
+        "e)limfocite."
+      ],
+      "correct_answer": "b)celulele endoteliale;"
+    },
+    {
+      "question": "Care dintre următoarele celule este specializată în fagocitarea complexelor antigen-anticorp?",
+      "answers": [
+        "a)macrofagul;",
+        "b)monocitul;",
+        "c)granulocitul neutrofil;",
+        "d)granulocitul eozinofil;",
+        "e)limfocitul."
+      ],
+      "correct_answer": "d)granulocitul eozinofil;"
+    },
+    {
+      "question": "Celulele endoteliale susțin funcțional celulele proinflamatorii prin:",
+      "answers": [
+        "a)eliberarea de PAF și prostaglandine;",
+        "b)eliberarea factorilor de coagulare;",
+        "c)eliberarea de histamină;",
+        "d)eliberarea de heparină;",
+        "e)eliberarea de TNF."
+      ],
+      "correct_answer": "a)eliberarea de PAF și prostaglandine;"
+    },
+    {
+      "question": "Plachetele sanguine susțin funcțional celulele proinflamatorii prin:",
+      "answers": [
+        "a)eliberarea de PAF și prostaglandine;",
+        "b)eliberarea factorilor de coagulare;",
+        "c)eliberarea de histamină;",
+        "d)eliberarea de heparină;",
+        "e)eliberarea de TNF."
+      ],
+      "correct_answer": "b)eliberarea factorilor de coagulare;"
+    },
+    {
+      "question": "Mastocitele și bazofilele susțin funcțional celulele proinflamatorii prin:",
+      "answers": [
+        "a)eliberarea de PAF și prostaglandine;",
+        "b)eliberarea factorilor de coagulare;",
+        "c)eliberarea de histamină;",
+        "d)eliberarea de factori ai complementului;",
+        "e)eliberarea de TNF."
+      ],
+      "correct_answer": "c)eliberarea de histamină;"
+    },
+    {
+      "question": "Celulele proinflamatorii din compartimentul tisular acționează, printre altele, prin:",
+      "answers": [
+        "a)chemotactism și chemokinezie;",
+        "b)marginație leucocitară;",
+        "c)aderare reversibilă la nivelul endoteliului vascular;",
+        "d)aderare ireversibilă la nivelul endoteliului vascular;",
+        "e)aderare trombocitara."
+      ],
+      "correct_answer": "a)chemotactism și chemokinezie;"
+    },
+    {
+      "question": "Celulele proinflamatorii din compartimentul tisular acționează, printre altele, prin:",
+      "answers": [
+        "a)maturare și multiplicare;",
+        "b)marginație leucocitară;",
+        "c)fagocitoză;",
+        "d)aderare ireversibilă la nivelul endoteliului vascular;",
+        "e)metamorfoza vascoasa."
+      ],
+      "correct_answer": "c)fagocitoză;"
+    },
+    {
+      "question": "Celulele proinflamatorii din compartimentul tisular acționează, printre altele prin:",
+      "answers": [
+        "a)maturare și multiplicare;",
+        "b)marginație leucocitară;",
+        "c)aderare ireversibilă la nivelul endoteliului vascular;",
+        "d)citotoxicitate oxigen dependentă.",
+        "e)metamorfoza vascoasa."
+      ],
+      "correct_answer": "d)citotoxicitate oxigen dependentă."
+    },
+    {
+      "question": "Celulele proinflamatorii din compartimentul circulant acționează, printre altele prin:",
+      "answers": [
+        "a)chemotactism și chemokinezie;",
+        "b)aderarea ireversibilă la nivelul endoteliului vascular;",
+        "c)maturare și multiplicare;",
+        "d)fagocitoză;",
+        "e)pinocitoza."
+      ],
+      "correct_answer": "b)aderarea ireversibilă la nivelul endoteliului vascular;"
+    },
+    {
+      "question": "Celulele proinflamatorii din compartimentul circulant acționează, printre altele prin:",
+      "answers": [
+        "a)diapedeză;",
+        "b)diferențiere;",
+        "c)maturare și multiplicare;",
+        "d)fagocitoză;",
+        "e)pinocitoza."
+      ],
+      "correct_answer": "a)diapedeză;"
+    },
+    {
+      "question": "Primul val chemotactic este caracterizat prin:",
+      "answers": [
+        "a)o durată de cca. 2-4 ore fiind susținut de macrofage;",
+        "b)o durată de cca. 2-4 ore fiind susținut de neutrofile;",
+        "c)o durată de cca. 36 ore fiind susținut de macrofage;",
+        "d)o durată de cca. 36 ore fiind susținut de neutrofile;",
+        "e)o durată de cca. 36 ore fiind susținut de limfocite."
+      ],
+      "correct_answer": "b)o durată de cca. 2-4 ore fiind susținut de neutrofile;"
+    },
+    {
+      "question": "Al doilea val chemotactic este caracterizat prin:",
+      "answers": [
+        "a)o durată de cca. 2-4 ore fiind susținut de macrofage;",
+        "b)o durată de cca. 2-4 ore fiind susținut de neutrofile;",
+        "c)o durată de cca. 36 ore fiind susținut de macrofage;",
+        "d)o durată de cca. 36 ore fiind susținut de neutrofile;",
+        "e)o durată de cca. 36 ore fiind susținut de limfocite;"
+      ],
+      "correct_answer": "c)o durată de cca. 36 ore fiind susținut de macrofage;"
+    },
+    {
+      "question": "Etapa de reparație tisulară a reacției inflamatorii este caracterizată prin:",
+      "answers": [
+        "a)menținerea proceselor vasculo-exudative;",
+        "b)intensificarea proceselor proliferative;",
+        "c)intensificarea acțiunii macrofagelor;",
+        "d)intensificarea acțiunii neutrofilelor;",
+        "e)intensificarea acțiunii limfocitelor."
+      ],
+      "correct_answer": "b)intensificarea proceselor proliferative;"
+    },
+    {
+      "question": "Etapa de reparație tisulară a reacției inflamatorii este caracterizată prin:",
+      "answers": [
+        "a)diminuarea proceselor vasculo-exudative;",
+        "b)diminuarea proceselor proliferative;",
+        "c)intensificarea acțiunii macrofagelor;",
+        "d)intensificarea acțiunii neutrofilelor;",
+        "e)intensificarea actiunii limfocitelor."
+      ],
+      "correct_answer": "a)diminuarea proceselor vasculo-exudative;"
+    },
+    {
+      "question": "Unul dintre cele două elemente capitale inductoare de șoc este:",
+      "answers": [
+        "a)scăderea frecvenței cardiace;",
+        "b)scăderea amplitudinii contracțiilor cardiace;",
+        "c)scăderea perfuziei tisulare;",
+        "d)scăderea hematozei;",
+        "e)cresterea hematozei."
+      ],
+      "correct_answer": "c)scăderea perfuziei tisulare;"
+    },
+    {
+      "question": "Unul dintre cele două elemente capitale inductoare de șoc este:",
+      "answers": [
+        "a)hipoxia tisulară;",
+        "b)staza sanguină;",
+        "c)ischemia tisulară;",
+        "d)hiperemia tisulara;",
+        "e)hiperoxia tisulară."
+      ],
+      "correct_answer": "a)hipoxia tisulară;"
+    },
+    {
+      "question": "Șocul hipovolemic poate fi indus de.",
+      "answers": [
+        "a)aritmii cardiace;",
+        "b)embolii pulmonare;",
+        "c)plasmoragii;",
+        "d)insuficiențe valvulare;",
+        "e)stenoze valvulare."
+      ],
+      "correct_answer": "c)plasmoragii;"
+    },
+    {
+      "question": "Șocul hipovolemic se instituie atunci când:",
+      "answers": [
+        "a)are loc diminuarea volemiei cu cel puțin 10%;",
+        "b)are loc diminuarea volemiei cu cel puțin 20%;",
+        "c)are loc diminuarea volemiei cu cel puțin 30%;",
+        "d)are loc diminuarea volemiei cu cel puțin 40%;",
+        "e)are loc diminuarea volemiei cu cel puțin 50%;"
+      ],
+      "correct_answer": "c)are loc diminuarea volemiei cu cel puțin 30%;"
+    },
+    {
+      "question": "Șocul cardiogen poate fi indus de.",
+      "answers": [
+        "a)aritmii cardiace;",
+        "b)embolii pulmonare;",
+        "c)hiperglicemie;",
+        "d)insuficiențe renala;",
+        "e)insuficienta renala."
+      ],
+      "correct_answer": "a)aritmii cardiace;"
+    },
+    {
+      "question": "Șocul disvolemic poate fi indus de.",
+      "answers": [
+        "a)endotoxine bacteriene;",
+        "b)embolii pulmonare;",
+        "c)plasmoragii;",
+        "d)anemie;",
+        "e)hemoragii."
+      ],
+      "correct_answer": "a)endotoxine bacteriene;"
+    },
+    {
+      "question": "Șocul disvolemic poate fi indus de.",
+      "answers": [
+        "a)intoxicații cu medicație depresoare;",
+        "b)embolii pulmonare;",
+        "c)pneumotorax;",
+        "d)cardiomiopatii;",
+        "e)plasmoragii."
+      ],
+      "correct_answer": "a)intoxicații cu medicație depresoare;"
+    },
+    {
+      "question": "Șocul obstructiv poate fi indus de.",
+      "answers": [
+        "a)intoxicații cu medicație depresoare;",
+        "b)embolii pulmonare;",
+        "c)alergii;",
+        "d)cardiomiopatii;",
+        "e)plasmoragii."
+      ],
+      "correct_answer": "b)embolii pulmonare;"
+    },
+    {
+      "question": "Șocul obstructiv poate fi indus de.",
+      "answers": [
+        "a)infarct miocardic;",
+        "b)alergii;",
+        "c)anemie;",
+        "d)tamponada cardiacă;",
+        "e)hemoragii."
+      ],
+      "correct_answer": "d)tamponada cardiacă;"
+    },
+    {
+      "question": "În șocul hipovolemic compensat se constată:",
+      "answers": [
+        "a)vasoconstricție pre și post capilară și deschiderea șunturilor arterio-venoase;",
+        "b)vasoconstricție pre și post capilară și închiderea șunturilor arterio-venoase;",
+        "c)vasodilatație pre și post capilară și deschiderea șunturilor arterio-venoase;",
+        "d)vasodilatație pre și post capilară și închiderea șunturilor arterio-venoase;",
+        "e)vasoconstrictie venoasa si deschiderea sunturilior capilare."
+      ],
+      "correct_answer": "a)vasoconstricție pre și post capilară și deschiderea șunturilor arterio-venoase;"
+    },
+    {
+      "question": "În șocul hipovolemic compensat se constată:",
+      "answers": [
+        "a)mobilizarea rezervelor sanguine din țesuturile hematopexice;",
+        "b)extravazarea componentei plasmatice a sângelui;",
+        "c)amplificarea rezervelor sanguine din organele hematopexice;",
+        "d)hipocalcemie;",
+        "e)bradicardie si bradipnee."
+      ],
+      "correct_answer": "a)mobilizarea rezervelor sanguine din țesuturile hematopexice;"
+    },
+    {
+      "question": "În șocul hipovolemic decompensat se constată:",
+      "answers": [
+        "a)acidoză și închiderea sfincterelor pre și post capilare;",
+        "b)acidoză și deschiderea sfincterelor pre și postcapilare;",
+        "c)alcaloză și închiderea sfincterelor pre și post capilare;",
+        "d)alcaloză și deschiderea sfincterelor pre și postcapilare;",
+        "e)alcaloza si inchiderea sfincterelor venoase."
+      ],
+      "correct_answer": "b)acidoză și deschiderea sfincterelor pre și postcapilare;"
+    },
+    {
+      "question": "În șocul hipovolemic decompensat se constată:",
+      "answers": [
+        "a)stază sanguină, care induce hipervolemie relativă;",
+        "b)stază sanguină, care induce hipovolemie;",
+        "c)stază sanguină, care induce hipovolemie relativă;",
+        "d)stază sanguină, care induce hipervolemie;",
+        "e)tromboza si embolism."
+      ],
+      "correct_answer": "c)stază sanguină, care induce hipovolemie relativă;"
+    },
+    {
+      "question": "În șocul hipovolemic decompensat se constată:",
+      "answers": [
+        "a)hemodiluție;",
+        "b)ischemie;",
+        "c)creșterea permeabilității vasculare;",
+        "d)anemie;",
+        "e)embolie pulmonara."
+      ],
+      "correct_answer": "c)creșterea permeabilității vasculare;"
+    },
+    {
+      "question": "În șocul hipovolemic decompensat se constată:",
+      "answers": [
+        "a)hiperperfuzie coronariană și amplificarea debitului cardiac;",
+        "b)hipoperfuzie coronariană și diminuarea debitului cardiac;",
+        "c)hiperperfuzie coronariană și diminuarea debitului cardiac.",
+        "d)hipoperfuzie coronariană și amplificarea debitului cardiac;",
+        "e)hiperperfuzie pulmonara si amplificarea debitului cardiac."
+      ],
+      "correct_answer": "b)hipoperfuzie coronariană și diminuarea debitului cardiac;"
+    },
+    {
+      "question": "În șocul compensat, hiperglicemia specifică este indusă prin:",
+      "answers": [
+        "a)intensificarea glicogenolizei și a gluconeogenezei;",
+        "b)diminuarea glicogenolizei și a gluconeogenezei;",
+        "c)intensificarea glicogenolizei și diminuarea gluconeogenezei;",
+        "d)diminuarea glicogenolizei și intensificarea gluconeogenezei;",
+        "e)diminuarea glicolizei si a glicogenolizei."
+      ],
+      "correct_answer": "a)intensificarea glicogenolizei și a gluconeogenezei;"
+    },
+    {
+      "question": "Glicogenoliza, specifică șocului compensat, este indusă, printre altele de:",
+      "answers": [
+        "a)insulină, adrenalină și tiroxină;",
+        "b)STH, insulină și adrenalină;",
+        "c)adrenalină, tiroxină și glucagon;",
+        "d)STH, adrenalină și glucagon;",
+        "e)aldosteron si glicogen."
+      ],
+      "correct_answer": "c)adrenalină, tiroxină și glucagon;"
+    },
+    {
+      "question": "Neoglucogeneza, specifică șocului compensat, este indusă, printre altele de:",
+      "answers": [
+        "a)insulină;",
+        "b)STH;",
+        "c)adrenalină;",
+        "d)hormonii glucocorticoizi;",
+        "e)hormonii sexuali."
+      ],
+      "correct_answer": "d)hormonii glucocorticoizi;"
+    },
+    {
+      "question": "Intensificarea lipemiei, specifică șocului compensat, este indusă, printre altele de:",
+      "answers": [
+        "a)insulină, adrenalină și tiroxină;",
+        "b)adrenalină, tiroxină și hormonii glucocorticoizi;",
+        "c)STH, insulină și adrenalină;",
+        "d)STH, adrenalină și glucagon;",
+        "e)hormonii sexuali."
+      ],
+      "correct_answer": "b)adrenalină, tiroxină și hormonii glucocorticoizi;"
+    },
+    {
+      "question": "În șocul compensat, la nivelul metabolismului hidro-mineral se constată:",
+      "answers": [
+        "a)reținerea apei și Na+ la nivel vascular;",
+        "b)transferul apei și Ca++ din spațiul interstițial în cel intracelular;",
+        "c)transferul apei din spațiul vascular în cel interstițial ;",
+        "d)anemie;",
+        "e)transferul apei din spatiul interstitial in cel intracelular."
+      ],
+      "correct_answer": "a)reținerea apei și Na+ la nivel vascular;"
+    },
+    {
+      "question": "În șocul decompensat se constată:",
+      "answers": [
+        "a)hiperglicemie și intensificarea metabolizării hepatice a lipidelor;",
+        "b)hipoglicemie și intensificarea metabolizării hepatice a lipidelor;",
+        "c)hiperglicemie și acumularea lipidelor la nivelul ficatului (încărcare grasă);",
+        "d)hipoglicemie și acumularea lipidelor la nivelul ficatului (încărcare grasă);",
+        "e)hiperglicemie și acumularea lipidelor la nivelul rinichiului (încărcare grasă)."
+      ],
+      "correct_answer": "d)hipoglicemie și acumularea lipidelor la nivelul ficatului (încărcare grasă);"
+    },
+    {
+      "question": "În șocul decompensat, la nivelul metabolismului hidro-mineral se constată:",
+      "answers": [
+        "a)reținerea apei și Na+ la nivel vascular;",
+        "b)reținerea apei și Na+ in spațiul intracelular (edem celular);",
+        "c)transferul apei din spațiul interstițial în cel vascular;",
+        "d)anemie;",
+        "e)transferul apei catre spatiul vascular."
+      ],
+      "correct_answer": "b)reținerea apei și Na+ in spațiul intracelular (edem celular);"
+    },
+    {
+      "question": "În ficatul de șoc decompensat (insuficiență de organ) se constată:",
+      "answers": [
+        "a)status hipercoagulant;",
+        "b)amplificarea funcției antitoxice;",
+        "c)amplificarea neoglucogenezei;",
+        "d)diminuarea metabolizarii pigmentior biliari;",
+        "e)hipocalcemie"
+      ],
+      "correct_answer": "d)diminuarea metabolizarii pigmentior biliari;"
+    },
+    {
+      "question": "În rinichiul de șoc decompensat (insuficiență de organ) se constată:",
+      "answers": [
+        "a)insuficienta renala;",
+        "b)poliurie",
+        "c)nefroză;",
+        "d)anemie;",
+        "e)nefrita."
+      ],
+      "correct_answer": "a)insuficienta renala;"
+    },
+    {
+      "question": "În șocul compensat se constată:",
+      "answers": [
+        "a)transferul în sens extracelular a K+ și intracelular a Ca++;",
+        "b)transferul în sens intracelular a K+ și a Ca++;",
+        "c)transferul în sens intraacelular a K+ și extraacelular a Ca++;",
+        "d)transferul în sens extracelular a K+ și a Ca++;",
+        "e)anemie."
+      ],
+      "correct_answer": "c)transferul în sens intraacelular a K+ și extraacelular a Ca++;"
+    },
+    [
+      {
+        "question": "În șocul decompensat se constată:",
+        "answers": [
+          "a)transferul în sens extracelular a K+ și intracelular a Ca++;",
+          "b)transferul în sens intracelular a K+ și a Ca++;",
+          "c)transferul în sens intraacelular a K+ și extraacelular a Ca++;",
+          "d)transferul în sens extracelular a K+ și a Ca++;",
+          "e)anemie."
+        ],
+        "correct_answer": "c)transferul în sens intraacelular a K+ și extraacelular a Ca++;"
+      },
+      {
+        "question": "În șocul decompensat, acumularea intracelulară a Ca++ determină:",
+        "answers": [
+          "a)edem celular;",
+          "b)aritmii cardiace;",
+          "c)activarea proteazelor celulare;",
+          "d)anemie;",
+          "e)calcinoza."
+        ],
+        "correct_answer": "c)activarea proteazelor celulare;"
+      },
+      {
+        "question": "În șocul decompensat, acumularea extracelulară a K+ determină:",
+        "answers": [
+          "a)edem celular;",
+          "b)aritmii cardiace;",
+          "c)activarea proteazelor celulare;",
+          "d)anemie;",
+          "e)edem celular."
+        ],
+        "correct_answer": "b)aritmii cardiace;"
+      },
+      {
+        "question": "În șocul decompensat, acumularea intracelulară a Na+ determină:",
+        "answers": [
+          "a)edem celular;",
+          "b)aritmii cardiace;",
+          "c)activarea proteazelor celulare;",
+          "d)hipocalcemie;",
+          "e)edeme generalizate."
+        ],
+        "correct_answer": "a)edem celular;"
+      },
+      {
+        "question": "Cauza edemului celular, specific șocului decompensat, este:",
+        "answers": [
+          "a)inactivarea pompei de Ca++;",
+          "b)inactivarea pompei de Na+/K+;",
+          "c)activarea pompei de Ca++;",
+          "d)variantele b și c;",
+          "e)hiperactivitatea pompei de Na+/K+."
+        ],
+        "correct_answer": "b)inactivarea pompei de Na+/K+;"
+      },
+      {
+        "question": "Cauza acumulării intracelulare a Ca++, specific șocului decompensat, este:",
+        "answers": [
+          "a)inactivarea pompei de Ca++;",
+          "b)inactivarea pompei de Na+/Ca++;",
+          "c)activarea pompei de Ca++;",
+          "d)activarea pompei de Na+/Ca++;",
+          "e)hiperactivitatea pompei de Na+/Ca++."
+        ],
+        "correct_answer": "a)inactivarea pompei de Ca++;"
+      },
+      {
+        "question": "În plămâmul de șoc decompensat (insuficiență de organ) se constată:",
+        "answers": [
+          "a)hematurie;",
+          "b)CID;",
+          "c)ischemie;",
+          "d)anemie;",
+          "e)infarctizare."
+        ],
+        "correct_answer": "b)CID;"
+      },
+      {
+        "question": "În ficatul de șoc decompensat (insuficiență de organ) se constată:",
+        "answers": [
+          "a)status hipocoagulant;",
+          "b)amplificarea funcției antitoxice;",
+          "c)amplificarea neoglucogenezei;",
+          "d)amplificarea sintezei proteice;",
+          "e)status hipercoagulant."
+        ],
+        "correct_answer": "a)status hipocoagulant;"
+      },
+      {
+        "question": "În ficatul de șoc decompensat (insuficiență de organ) se constată:",
+        "answers": [
+          "a)stoparea gluconeogenezei;",
+          "b)amplificarea funcției antitoxice;",
+          "c)amplificarea neoglucogenezei;",
+          "d)amplificarea sintezei proteice;",
+          "e)status hipercoagulant."
+        ],
+        "correct_answer": "a)stoparea gluconeogenezei;"
+      },
+      [
+        {
+          "question": "În plămâmul de șoc decompensat (insuficiență de organ) se constată:",
+          "answers": [
+            "a) anemie;",
+            "b) CID; CORECT",
+            "c) ischemie;",
+            "d) hiperglicemie;",
+            "e) infarctizare."
+          ],
+          "correct_answer": "b) CID"
+        },
+        {
+          "question": "În rinichiul de șoc decompensat (insuficiență de organ) se constată:",
+          "answers": [
+            "a) hiperglicemie;",
+            "b) hipocalcemie;",
+            "c) hipoalbuminiemie;",
+            "d) anurie; CORECT",
+            "e) apnee."
+          ],
+          "correct_answer": "d) anurie"
+        },
+        {
+          "question": "În intestinul de șoc decompensat (insuficiență de organ) se constată:",
+          "answers": [
+            "a) hipocalcemia;",
+            "b) voma;",
+            "c) constipație;",
+            "d) ulceratii intestinale; CORECT",
+            "e) diaree."
+          ],
+          "correct_answer": "d) ulceratii intestinale"
+        },
+        {
+          "question": "Care dintre manifestările patologice menționate mai jos intră în categoria inflamațiilor?",
+          "answers": [
+            "a) dermatosis;",
+            "b) nefrită; CORECT",
+            "c) hepatosis;",
+            "d) miocardoză;",
+            "e) hepatosteatoză."
+          ],
+          "correct_answer": "b) nefrită"
+        },
+        {
+          "question": "Șocul hipovolemic poate fi indus de:",
+          "answers": [
+            "a) aritmii cardiace;",
+            "b) embolii pulmonare;",
+            "c) poliurie; CORECT",
+            "d) insuficiențe valvulare;",
+            "e) stenoze valvulare."
+          ],
+          "correct_answer": "c) poliurie"
+        },
+        {
+          "question": "Șocul disvolemic poate fi indus de:",
+          "answers": [
+            "a) aritmii cardiace;",
+            "b) embolii pulmonare;",
+            "c) reacția anafilactică; CORECT",
+            "d) insuficiențe valvulare;",
+            "e) stenoze valvulare."
+          ],
+          "correct_answer": "c) reacția anafilactică"
+        },
+        {
+          "question": "Șocul cardiogen poate fi indus de:",
+          "answers": [
+            "a) plasmoragii;",
+            "b) hemoragii;",
+            "c) stenoze valvulare; CORECT",
+            "d) insuficiența renală;",
+            "e) ischemie renală."
+          ],
+          "correct_answer": "c) stenoze valvulare"
+        },
+        {
+          "question": "Reacțiile inflamatorii consecutive acțiunii factorilor flogogeni de natura chimică intră în categoria inflamațiilor:",
+          "answers": [
+            "a) mecanice;",
+            "b) septice;",
+            "c) hiperergice;",
+            "d) neimunologice; CORECT",
+            "e) imunologice."
+          ],
+          "correct_answer": "d) neimunologice"
+        },
+        {
+          "question": "Reacțiile inflamatorii consecutive acțiunii factorilor flogogeni septici intră în categoria inflamațiilor:",
+          "answers": [
+            "a) mecanice;",
+            "b) aseptice;",
+            "c) hiperergice;",
+            "d) neimunologice;",
+            "e) imunologice; CORECT"
+          ],
+          "correct_answer": "e) imunologice"
+        }
+      ]
+    ]
+  ]
+}
