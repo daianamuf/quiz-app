@@ -61,7 +61,7 @@ export function QuizProvider({ children }) {
   useEffect(() => {
     const getQuestions = async () => {
       try {
-        const res = await fetch("/test.json");
+        const res = await fetch("/grile.json");
         const data = await res.json();
         const shuffledQuestions = shuffleArray(data.questions);
         dispatch({ type: "dataReceived", payload: shuffledQuestions });
