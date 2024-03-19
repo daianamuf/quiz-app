@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "Care dintre afirmațiile de mai jos este adevărată?",
+      "answers": [
+        "a)reacțiile inflamatorii au etape evolutive diferite influențate de tipul agentului flogogen",
+        "b)reacțiile inflamatorii au etape evolutive identice influențate de tipul agentului flogogen",
+        "c)reacțiile inflamatorii au etape evolutive identice neinfluențate de tipul agentului flogogen",
+        "d)reacțiile inflamatorii au etape evolutive diferite neinfluențate de tipul agentului flogogen",
+        "e)reacțiile inflamatorii nu au etape evolutive fiind influențate de tipul agentului flogogen"
+      ],
+      "correct_answer": "c)reacțiile inflamatorii au etape evolutive identice neinfluențate de tipul agentului flogogen"
+    },
+    {
+      "question": "Care dintre manifestările patologice menționate mai jos intră în categoria inflamațiilor?",
+      "answers": [
+        "a)fibroza pulmonară",
+        "b)congestia renală",
+        "c)encefaloză",
+        "d)perihepatită",
+        "e)miodistrofia"
+      ],
+      "correct_answer": "d)perihepatită"
+    },
+    {
+      "question": "Manifestările locale ale procesului inflamator sunt reprezentate de: ",
+      "answers": [
+        "a)alterări tisulare induse de factorul flogogen și reacții de protecție ale organismului;",
+        "b)degenerări tisulare induse de factorul flogogen și reacții de protecție ale organismului;",
+        "c)inflamații tisulare induse de factorul flogogen și reacții de protecție ale organismului;",
+        "d)alterări tisulare și reacții de compensare ale organismului;",
+        "e)alterări tisulare și reacții de adaptare ale organismului."
+      ],
+      "correct_answer": "a)alterări tisulare induse de factorul flogogen și reacții de protecție ale organismului;"
+    }
+  ]
+}

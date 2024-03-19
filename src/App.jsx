@@ -1,5 +1,12 @@
+import QuizApp from "./QuizApp";
+import { QuizProvider } from "./QuizContext";
+
 function App() {
-  return <div></div>;
+  return (
+    <QuizProvider>
+      <QuizApp />
+    </QuizProvider>
+  );
 }
 
 export default App;
