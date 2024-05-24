@@ -303,10 +303,10 @@
         "a)derulării unui reflex antidromic;",
         "b)catecolaminelor;",
         "c)derulării unui reflex parasimpatic;",
-        "d) unor mediatori solubili ai inflamației;",
+        "d)unor mediatori solubili ai inflamației;",
         "e)acetilcolinei."
       ],
-      "correct_answer": "d) unor mediatori solubili ai inflamației;"
+      "correct_answer": "d)unor mediatori solubili ai inflamației;"
     },
     {
       "question": "În categoria mediatorii solubili ai inflamației, care se implică în inducerea fazei a II-a a etapei vasculare a reacției inflamatorii, care se concretizează prin vasodilatație arterio-capilară și venoasă (postcapilară), se găsesc:",
@@ -335,10 +335,10 @@
         "a)2 ore;",
         "b)6 ore;",
         "b)12 ore;",
-        "c)24 ore:",
+        "c)24 ore;",
         "e)36 ore."
       ],
-      "correct_answer": "c)24 ore:"
+      "correct_answer": "c)24 ore;"
     },
     {
       "question": "Activarea sistemului complement are loc în cursul:",
@@ -806,6 +806,50 @@
         "e)embolie pulmonara."
       ],
       "correct_answer": "c)creșterea permeabilității vasculare;"
+    },
+    {
+      "question": "Consecutiv creșterii permeabilității vasculare, în șocul hipovolemic decompensat, se constată: ",
+      "answers": [
+        "a)plasmexodie și hemodiluție;",
+        "b)ischemie și hemodiluție;",
+        "c)plasmexodie și hemoconcentrație;",
+        "d)ischemie și hemoconcentrație;",
+        "e)embolie pulmonara."
+      ],
+      "correct_answer": "c)plasmexodie și hemoconcentrație;"
+    },
+    {
+      "question": "Plasmexodia, consecutivă creșterii permeabilității vasculare din șocul hipovolemic, induce: ",
+      "answers": [
+        "a)hipovolemie;",
+        "b)hipovolemie relativă;",
+        "c)creșterea presiunii arteriale;",
+        "d)hemodiluție;",
+        "e)tromboza."
+      ],
+      "correct_answer": "a)hipovolemie;"
+    },
+    {
+      "question": "Hemoconcentrația, consecutivă creșterii permeabilității vasculare din șocul hipovolemic, induce: ",
+      "answers": [
+        "a)CID;",
+        "b)creșterea perfuziei tisulare;",
+        "c)anemie;",
+        "d)diminuarea perfuziei tisulare;",
+        "e)amplificarea hematozei."
+      ],
+      "correct_answer": "a)CID;"
+    },
+    {
+      "question": "În șocul hipovolemic compensat se constată: ",
+      "answers": [
+        "a)bradicardie și diminuarea forței de contracție a inimii; ",
+        "b)bradicardie și creșterea forței de contracție a inimii;",
+        "c)tahicardie și creșterea forței de contracție a inimii;",
+        "d)tahicardie și diminuarea forței de contracție a inimii;",
+        "e)tamponada cardiaca."
+      ],
+      "correct_answer": "c)tahicardie și creșterea forței de contracție a inimii; "
     },
     {
       "question": "În șocul hipovolemic decompensat se constată:",
@@ -1379,7 +1423,7 @@
         "d)neimunologice;",
         "e)imunologice;"
       ],
-      "correct_answer": "e)imunologice;"
+      "correct_answer": "d)neimunologice;"
     },
     {
       "question": "Reacțiile inflamatorii consecutive acțiunii factorilor flogogeni septici intră în categoria inflamațiilor:",
@@ -1795,6 +1839,110 @@
       "question": "În declanșarea angiogenezei, ca fază specifică Etapei de reparație tisulară a reacției inflamatorii, se implică si:",
       "answers": ["a)EGF;", "b)HGF;", "c)STH;", "d)TNF;", "e)PAF."],
       "correct_answer": "d)TNF;"
+    },
+    {
+      "question": "Imidaclopridul este un:",
+      "answers": [
+        "a) Piretroid",
+        "b) Organoclorurat",
+        "c) Neonicotinoid",
+        "d) Ivermectină",
+        "e) Izoxazolină"
+      ],
+      "correct_answer": "c) Neonicotinoid"
+    },
+    {
+      "question": "Bravecto este un/o:",
+      "answers": [
+        "a) Imidacloprid",
+        "b) Izoxazolină",
+        "c) Piretroid",
+        "d) Ivermectină",
+        "e) Fenilpirazol"
+      ],
+      "correct_answer": "b) Izoxazolină"
+    },
+    {
+      "question": "Fipronilul acționează prin:",
+      "answers": [
+        "a) Mimarea efectelor acetilcolinei (ACh)",
+        "b) Blocarea competitivă a canalelor de clor ale glutamatului",
+        "c) Creșterea influxului de clor prin canalele glutamatului",
+        "d) Blocarea necompetitivă a canalelor de clor ale GABA (acid γ-amino butiric) și glutamatului",
+        "e) Blocarea competitivă a canalelor de clor ale GABA"
+      ],
+      "correct_answer": "d) Blocarea necompetitivă a canalelor de clor ale GABA (acid γ-amino butiric) și glutamatului"
+    },
+    {
+      "question": "Fipronilul, eficient la câini și pisici, este formulat și cu metopren care este un:",
+      "answers": [
+        "a) Neonicotinoid",
+        "b) Piretroid",
+        "c) Analog al hormonilor juvenili",
+        "d) Ivermectină",
+        "e) Organoclorurat"
+      ],
+      "correct_answer": "b) Piretroid"
+    },
+    {
+      "question": "Printre inhibitorii de dezvoltare ai insectelor (IDI) se numără:",
+      "answers": [
+        "a) Ciromazin",
+        "b) Fenoxicarb",
+        "c) Piriproxifen",
+        "d) Metopren",
+        "e) Lufenuron"
+      ],
+      "correct_answer": "e) Lufenuron"
+    },
+    {
+      "question": "Unul dintre cele mai utilizate piretroide din generația a III-a este:",
+      "answers": [
+        "a) Permetrin",
+        "b) Cyflutrin",
+        "c) Aletrin",
+        "d) Phenotrin",
+        "e) Cypermetrin"
+      ],
+      "correct_answer": "a) Permetrin"
+    },
+    {
+      "question": "Formularea imidaclopridului împreună cu permetrin este utilizată numai la:",
+      "answers": ["a) Câini", "b) Pisici", "c) Bovine", "d) Cai", "e) Păsări"],
+      "correct_answer": "a) Câini"
+    },
+    {
+      "question": "Advantage Multi este o combinație a imidaclopridului cu:",
+      "answers": [
+        "a) Amitraz",
+        "b) Permetrin",
+        "c) Cypermetrin",
+        "d) Moxidectin",
+        "e) Ivermectin"
+      ],
+      "correct_answer": "d) Moxidectin"
+    },
+    {
+      "question": "Printre avermectine se numără următoarele, cu o excepție:",
+      "answers": [
+        "a) Selamectina",
+        "b) Milbemicina",
+        "c) Eprinomectina",
+        "d) Doramectina",
+        "e) Ivermectina"
+      ],
+      "correct_answer": "b) Milbemicina"
+    },
+    {
+      "question": "Moxidectina este un/o:",
+      "answers": [
+        "a) Nicotinoid",
+        "b) Neonicotinoid",
+        "c) Piretrină",
+        "d) Organoclorurat",
+        "e) Lactonă macrociclică"
+      ],
+      "correct_answer": "e) Lactonă macrociclică"
     },
     {
       "question": "În mod uzual fipronilul se administrează:",
@@ -2252,6 +2400,17 @@
       "correct_answer": "c) Fasciola"
     },
     {
+      "question": "Cestal este un produs care conține:",
+      "answers": [
+        "a) Tiabendazol",
+        "b) Albendazol",
+        "c) Morantel",
+        "d) Praziquantel ",
+        "e) Nitroscanat"
+      ],
+      "correct_answer": "c) Praziquantel "
+    },
+    {
       "question": "Oxiclozanida (Zanil) este un antihelmintic care se utilizează în trematodoze la:",
       "answers": ["a) Cal", "b) Bovine", "c) Câine", "d) Pisică", "e) Porc"],
       "correct_answer": "b) Bovine"
@@ -2264,6 +2423,17 @@
         "c) Câine",
         "d) Ovine",
         "e) Pisică"
+      ],
+      "correct_answer": "d) Ovine"
+    },
+    {
+      "question": "Diamfenetida are cea mai bună eficacitate față de formele imature de Fasciola la următoarele specii: ",
+      "answers": [
+        "a) Ovine",
+        "b) Bovine",
+        "c) Cabaline",
+        "d) Suine",
+        "e) Carnivore"
       ],
       "correct_answer": "d) Ovine"
     },
@@ -3401,7 +3571,7 @@
       "correct_answer": "e) carcinomul cu celule bazale"
     },
     {
-      "question": "„Celule mari, rotunde sau poliedrice, izolate sau grupate, cu anizocarioză; citoplasma bazofilă poate prezenta vacuole; număr mare de mitoze atipice; cromatina nucleară dispusă sub formă de bulgări grosieri” este aspectul citologic caracteristic pentru:",
+      "question": "Celule mari, rotunde sau poliedrice, izolate sau grupate, cu anizocarioză; citoplasma bazofilă poate prezenta vacuole; număr mare de mitoze atipice; cromatina nucleară dispusă sub formă de bulgări grosieri” este aspectul citologic caracteristic pentru:",
       "answers": [
         "a) mastocitom bine diferenţiat",
         "b) liposarcom",
