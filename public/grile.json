@@ -3571,6 +3571,39 @@
       "correct_answer": "b) are drept origine epiteliul cubic sau cilindric al mucoaselor"
     },
     {
+      "question": "Adenomul se poate diferenţia de adenocarcinom:",
+      "answers": [
+        "a) doar după forma tumorii",
+        "b) după localizare",
+        "c) după celula de origine",
+        "d) după poziţia celulelor tumorale faţă de membrana bazală",
+        "e) după localizarea în parenchimul glandei mamare"
+      ],
+      "correct_answer": "d) după poziţia celulelor tumorale faţă de membrana bazală"
+    },
+    {
+      "question": "Carcinomul schirogen se caracterizează prin:",
+      "answers": [
+        "a) desmoplazie pronunţată",
+        "b) stromă tumorală absentă",
+        "c) prezenţa adipocitelor tipice",
+        "d) prezenţa fibroblastelor anaplazice",
+        "e) prezenţa osteoblastelor atipice"
+      ],
+      "correct_answer": "a) desmoplazie pronunţată"
+    },
+    {
+      "question": "La o tumoră mamară cu aspect sarcomatos pe secţiune, cel mai probabil se va stabili diagnosticul de:",
+      "answers": [
+        "a) adenom",
+        "b) adenocarcinom chistic",
+        "c) carcinom anaplazic",
+        "d) osteosarcom extrascheletal",
+        "e) papilom"
+      ],
+      "correct_answer": "c) carcinom anaplazic"
+    },
+    {
       "question": "Celule tumorale multinucleate pot fi observate în:",
       "answers": [
         "a) fibrom",
@@ -3694,13 +3727,13 @@
     {
       "question": "Tumora malignă dezvoltată în cavitatea bucală, care citologic se caracterizează prin celule izolate, alungite, cu nuclei ovalari, eucromatici, cu anizocarioză pronunţată şi nucleoli evidenţi, rare celule multinucleate şi diviziuni atipice este diagnosticată drept:",
       "answers": [
-        "a) Fibrosarcom",
+        "a) fibrosarcom",
         "b) fibrom",
         "c) hemangiom",
         "d) tumoră veneriană transmisibilă",
         "e) rabdomiom"
       ],
-      "correct_answer": "a) Fibrosarcom"
+      "correct_answer": "a) fibrosarcom"
     },
     {
       "question": "Alegeţi enunţul corect.",
@@ -3903,13 +3936,13 @@
     {
       "question": "Tumoră dezvoltată pe peretele costal, dură, sferică, cu creştere lentă, delimitată de o discretă capsulă conjunctivă, caracterizată histologic prin formarea de lobuli de cartilaj hialin fără atipie celulară este descrierea pentru:",
       "answers": [
-        "a) Condrom",
+        "a) condrom",
         "b) condrosarcom",
         "c) osteom",
         "d) osteosarcom",
         "e) histiocitom fibros malign"
       ],
-      "correct_answer": "a) Condrom"
+      "correct_answer": "a) condrom"
     },
     {
       "question": "Ce tip de necroză poate fi diagnosticată în caz de pancreatită hemoragică acută?",
@@ -3980,13 +4013,13 @@
     {
       "question": "Nodul tumoral bine delimitat cu localizare cutanată, având celula de origine endoteliul vascular. Precizaţi diagnosticul:",
       "answers": [
-        "a) Hemangiom",
+        "a) hemangiom",
         "b) hemangiopericitom",
         "c) limfangiosarcom",
         "d) hemangiosarcom",
         "e) angiosarcom"
       ],
-      "correct_answer": "a) Hemangiom"
+      "correct_answer": "a) hemangiom"
     },
     {
       "question": "La examenul citologic al unui frotiu realizat din sedimentul unei probe de lichid recoltate din cavitatea peritoneală s-au pus în evidenţă numeroase celule de dimensiuni mari, cu anizocarioză, mononucleate şi multinucleate, cu citoplasmă bazofilă şi cu diviziuni atipice. Menţionaţi cărui diagnostic corespunde descrierea:",
@@ -4581,7 +4614,7 @@
         "d) afluxul leucocitar de la periferia focarului",
         "e) necroza astructurată"
       ],
-      "correct_answer": "b) capsula conjunctivă care delimitează necroza"
+      "correct_answer": "e) necroza astructurată"
     },
     {
       "question": "Formațiune sferică cu un conținut lichid, limpede, delimitată de o capsulă conjunctivă și care delimitează suprafața pulmonului este descrierea pentru:",
@@ -4892,7 +4925,7 @@
       "correct_answer": "b) nefrosteatoză"
     },
     {
-      "question": "Atrofia a țesutului adipos se instalează în subnutriție, boli cronice cahectizante și malabsorbție-maldigestie. Alegeți cuvântul care completează enunțul.",
+      "question": "Atrofia _____ a țesutului adipos se instalează în subnutriție, boli cronice cahectizante și malabsorbție-maldigestie. Alegeți cuvântul care completează enunțul.",
       "answers": [
         "a) grasă",
         "b) parțială",
@@ -4977,7 +5010,7 @@
         "d) în miopatiile nutriționale, cu păstrarea membranei bazale și a celulelor miosatelite",
         "e) în plăgile chirurgicale cu excizia unui fragment de țesut muscular"
       ],
-      "correct_answer": "d) în miopatiile nutriționale, cu păstrarea membranei bazale și a celulelor miosatelite"
+      "correct_answer": "a) când sunt afectate celulele miosatelite"
     },
     {
       "question": "Ce reprezintă calusul osos primar?",
