@@ -2378,6 +2378,17 @@
       "correct_answer": "a) Un indice terapeutic mic"
     },
     {
+      "question": "Cea mai puternică acțiune a Rafoxanidului este:",
+      "answers": [
+        "a) Asupra nematozilor hematofagi",
+        "b) Fasciolocidă",
+        "c) Asupra larvelor genului Oestrus",
+        "d) Asupra larvelor de Hypoderma",
+        "e) Asupra cestodelor"
+      ],
+      "correct_answer": "b) Fasciolocidă"
+    },
+    {
       "question": "Mecanismul de acțiune al Niclosamidei asupra helminților constă în:",
       "answers": [
         "a) Împiedică participarea fosforilazelor la metabolismul energetic",
@@ -2405,10 +2416,10 @@
         "a) Tiabendazol",
         "b) Albendazol",
         "c) Morantel",
-        "d) Praziquantel ",
+        "d) Praziquantel",
         "e) Nitroscanat"
       ],
-      "correct_answer": "c) Praziquantel "
+      "correct_answer": "d) Praziquantel"
     },
     {
       "question": "Oxiclozanida (Zanil) este un antihelmintic care se utilizează în trematodoze la:",
@@ -2435,7 +2446,7 @@
         "d) Suine",
         "e) Carnivore"
       ],
-      "correct_answer": "d) Ovine"
+      "correct_answer": "a) Ovine"
     },
     {
       "question": "Nitroscanatul administrat după tain poate provoca următoarele fenomene:",
@@ -2546,6 +2557,17 @@
         "e) Carnivore"
       ],
       "correct_answer": "a) Bovine"
+    },
+    {
+      "question": "Produsul Prazimec D este activ față de următoarele categorii de paraziți, cu o excepție:",
+      "answers": [
+        "a) Cestode",
+        "b) Nematode",
+        "c) Artropode",
+        "d) Agenții scabiei",
+        "e) Insecte"
+      ],
+      "correct_answer": "e) Insecte"
     },
     {
       "question": "Sulful se utilizează în următoarele parazitoze cu o excepție:",
