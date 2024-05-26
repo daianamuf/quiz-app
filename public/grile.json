@@ -1305,50 +1305,6 @@
       "correct_answer": "a)inactivarea pompei de Ca++;"
     },
     {
-      "question": "În plămâmul de șoc decompensat (insuficiență de organ) se constată:",
-      "answers": [
-        "a)hematurie;",
-        "b)CID;",
-        "c)ischemie;",
-        "d)anemie;",
-        "e)infarctizare."
-      ],
-      "correct_answer": "b)CID;"
-    },
-    {
-      "question": "În ficatul de șoc decompensat (insuficiență de organ) se constată:",
-      "answers": [
-        "a)status hipocoagulant;",
-        "b)amplificarea funcției antitoxice;",
-        "c)amplificarea neoglucogenezei;",
-        "d)amplificarea sintezei proteice;",
-        "e)status hipercoagulant."
-      ],
-      "correct_answer": "a)status hipocoagulant;"
-    },
-    {
-      "question": "În ficatul de șoc decompensat (insuficiență de organ) se constată:",
-      "answers": [
-        "a)stoparea gluconeogenezei;",
-        "b)amplificarea funcției antitoxice;",
-        "c)amplificarea neoglucogenezei;",
-        "d)amplificarea sintezei proteice;",
-        "e)status hipercoagulant."
-      ],
-      "correct_answer": "a)stoparea gluconeogenezei;"
-    },
-    {
-      "question": "În plămâmul de șoc decompensat (insuficiență de organ) se constată:",
-      "answers": [
-        "a)anemie;",
-        "b)CID;",
-        "c)ischemie;",
-        "d)hiperglicemie;",
-        "e)infarctizare."
-      ],
-      "correct_answer": "b)CID;"
-    },
-    {
       "question": "În rinichiul de șoc decompensat (insuficiență de organ) se constată:",
       "answers": [
         "a)hiperglicemie;",

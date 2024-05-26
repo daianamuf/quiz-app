@@ -65,6 +65,8 @@ export function QuizProvider({ children }) {
         const data = await res.json();
         const shuffledQuestions = shuffleArray(data.questions);
         dispatch({ type: "dataReceived", payload: shuffledQuestions });
+        const duplicateQuestions = findDuplicates(data.questions);
+        console.log("Duplicate Questions:", duplicateQuestions);
       } catch (err) {
         dispatch({ type: "dataFailed" });
         console.error("error:", err);
@@ -73,6 +75,33 @@ export function QuizProvider({ children }) {
 
     getQuestions();
   }, []);
+
+  function findDuplicates(questions) {
+    const seen = {};
+    const duplicateQuestions = [];
+
+    questions.forEach((question, index) => {
+      const questionString = JSON.stringify(question);
+      if (seen[questionString]) {
+        const count = seen[questionString].count + 1;
+        if (!seen[questionString].original && count === 2) {
+          seen[questionString].original = {
+            question,
+            position: seen[questionString].position,
+          };
+          duplicateQuestions.push(seen[questionString].original);
+        }
+        if (count > 2) {
+          duplicateQuestions.push({ question, position: index });
+        }
+        seen[questionString].count = count;
+      } else {
+        seen[questionString] = { position: index, count: 1 };
+      }
+    });
+
+    return duplicateQuestions;
+  }
 
   const shuffleArray = (array) => {
     for (let i = array.length - 1; i > 0; i--) {
