@@ -104,6 +104,14 @@ h4 {
   gap: 2rem;
   margin-bottom: 4rem;
 }
+@media (max-width: 48em) {
+  .start__chooseSet {
+    margin: 0 auto;
+    margin-bottom: 8rem;
+    width: 30rem;
+    flex-wrap: wrap;
+  }
+}
 
 .selected {
   background-color: #fff;

@@ -104,6 +104,13 @@ h4 {
     display: flex;
     gap: 2rem;
     margin-bottom: 4rem;
+
+    @media (max-width: 48em) {
+      margin: 0 auto;
+      margin-bottom: 8rem;
+      width: 30rem;
+      flex-wrap: wrap;
+    }
   }
 }
 
