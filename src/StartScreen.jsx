@@ -5,7 +5,8 @@ import { useContext } from "react";
 function StartScreen() {
   const context = useContext(QuizContext);
   const { state, dispatch } = context;
-  const numQuestions = state.questions.length;
+  // const numQuestions = state.questions.length;
+  const numQuestions = Object.values(state.questions[0]).flat().length;
 
   return (
     <div className="start">
