@@ -6,7 +6,16 @@ const initialState = {
   status: "loading",
   index: 0,
   selectedAnswer: null,
+  selectedSubset: "All",
 };
+
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
 
 function reducer(state, action) {
   switch (action.type) {
@@ -17,10 +26,23 @@ function reducer(state, action) {
         ...state,
         status: "error",
       };
-    case "start":
+    case "start": {
+      const selectedQuestions =
+        state.selectedSubset === "All"
+          ? Object.values(state.questions[0]).flat()
+          : state.questions[0][state.selectedSubset.toLowerCase()];
       return {
         ...state,
+        questions: shuffleArray(selectedQuestions),
         status: "active",
+        index: 0,
+        selectedAnswer: null,
+      };
+    }
+    case "setSubset":
+      return {
+        ...state,
+        selectedSubset: action.payload,
       };
     case "newAnswer": {
       const isCorrect =
@@ -65,8 +87,8 @@ export function QuizProvider({ children }) {
         const data = await res.json();
         const shuffledQuestions = shuffleArray(data.questions);
         dispatch({ type: "dataReceived", payload: shuffledQuestions });
-        const duplicateQuestions = findDuplicates(data.questions);
-        console.log("Duplicate Questions:", duplicateQuestions);
+        // const duplicateQuestions = findDuplicates(data.questions);
+        // console.log("Duplicate Questions:", duplicateQuestions);
       } catch (err) {
         dispatch({ type: "dataFailed" });
         console.error("error:", err);
@@ -77,39 +99,27 @@ export function QuizProvider({ children }) {
   }, []);
 
   function findDuplicates(questions) {
-    const seen = {};
-    const duplicateQuestions = [];
+    const seen = new Map();
+    const duplicates = [];
 
     questions.forEach((question, index) => {
       const questionString = JSON.stringify(question);
-      if (seen[questionString]) {
-        const count = seen[questionString].count + 1;
-        if (!seen[questionString].original && count === 2) {
-          seen[questionString].original = {
-            question,
-            position: seen[questionString].position,
-          };
-          duplicateQuestions.push(seen[questionString].original);
+      if (seen.has(questionString)) {
+        if (seen.get(questionString).count === 1) {
+          duplicates.push({
+            question: seen.get(questionString).question,
+            position: seen.get(questionString).position,
+          });
         }
-        if (count > 2) {
-          duplicateQuestions.push({ question, position: index });
-        }
-        seen[questionString].count = count;
+        duplicates.push({ question, position: index });
+        seen.get(questionString).count += 1;
       } else {
-        seen[questionString] = { position: index, count: 1 };
+        seen.set(questionString, { question, position: index, count: 1 });
       }
     });
 
-    return duplicateQuestions;
+    return duplicates;
   }
-
-  const shuffleArray = (array) => {
-    for (let i = array.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [array[i], array[j]] = [array[j], array[i]];
-    }
-    return array;
-  };
 
   return (
     <QuizContext.Provider value={{ state, dispatch }}>

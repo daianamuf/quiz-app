@@ -21,6 +21,36 @@ function StartScreen() {
       <h3 className="start__heading--scnd">
         {numQuestions} questions to test your veterinary medicine mastery
       </h3>
+      <div className="start__chooseSet">
+        <button
+          className="btn btn-ui"
+          onClick={() =>
+            dispatch({ type: "setSubset", payload: "Fiziopatologie" })
+          }
+        >
+          Fiziopatologie
+        </button>
+        <button
+          className="btn btn-ui"
+          onClick={() =>
+            dispatch({ type: "setSubset", payload: "Farmacologie" })
+          }
+        >
+          Farmacologie
+        </button>
+        <button
+          className="btn btn-ui"
+          onClick={() => dispatch({ type: "setSubset", payload: "Anatopat" })}
+        >
+          Anatomie patologica
+        </button>
+        <button
+          className="btn btn-ui"
+          onClick={() => dispatch({ type: "setSubset", payload: "All" })}
+        >
+          All
+        </button>
+      </div>
       <button
         className="btn btn-ui"
         onClick={() => dispatch({ type: "start" })}

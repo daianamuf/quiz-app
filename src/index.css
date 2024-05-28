@@ -99,6 +99,11 @@ h4 {
   flex-direction: column;
   align-items: center;
 }
+.start__chooseSet {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 4rem;
+}
 
 .progress {
   margin-bottom: 4rem;
