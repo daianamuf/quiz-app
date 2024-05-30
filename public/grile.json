@@ -662,6 +662,17 @@
           "correct_answer": "a)diminuarea proceselor vasculo-exudative;"
         },
         {
+          "question": "Etapa de reparație tisulară a reacției inflamatorii este compusă din următoarele faze succesive:",
+          "answers": [
+            "a) angiogeneza- refacerea tisulară specifică- remodelarea tisulară- fibroplazia;",
+            "b) angiogeneza- remodelarea tisulară- fibroplazia- refacerea tisulară specifică;",
+            "c) fibroplazia- angiogeneza- refacerea tisulară specifică- remodelarea tisulară;",
+            "d) fibroplazia- refacerea tisulară specifică- angiogeneza- remodelarea tisulară;",
+            "e) fibroplazia- refacerea tisulară specifică- angiogeneza- metastazare."
+          ],
+          "correct_answer": "c) fibroplazia- angiogeneza- refacerea tisulară specifică- remodelarea tisulară;"
+        },
+        {
           "question": "Unul dintre cele două elemente capitale inductoare de șoc este:",
           "answers": [
             "a)scăderea frecvenței cardiace;",
@@ -915,6 +926,39 @@
           "correct_answer": "b)adrenalină, tiroxină și hormonii glucocorticoizi;"
         },
         {
+          "question": "În șocul decompensat se constată:",
+          "answers": [
+            "a) hiperglicemie și intensificarea metabolizării hepatice a lipidelor;",
+            "b) hipoglicemie și intensificarea metabolizării hepatice a lipidelor;",
+            "c) hiperglicemie și acumularea lipidelor la nivelul ficatului (încărcare grasă);",
+            "d) hipoglicemie și acumularea lipidelor la nivelul ficatului (încărcare grasă);",
+            "e) hiperglicemie și acumularea lipidelor la nivelul rinichiului (încărcare grasă)."
+          ],
+          "correct_answer": "d) hipoglicemie și acumularea lipidelor la nivelul ficatului (încărcare grasă);"
+        },
+        {
+          "question": "În șocul compensat se constată:",
+          "answers": [
+            "a) hiperglicemie și intensificarea metabolizării hepatice a lipidelor;",
+            "b) hipoglicemie și intensificarea metabolizării hepatice a lipidelor;",
+            "c) hiperglicemie și acumularea lipidelor la nivelul ficatului (încărcare grasă);",
+            "d) hipoglicemie și acumularea lipidelor la nivelul ficatului (încărcare grasă);",
+            "e) hipoglicemie și acumularea lipidelor la nivelul rinichiului (încărcare grasă)."
+          ],
+          "correct_answer": "a) hiperglicemie și intensificarea metabolizării hepatice a lipidelor;"
+        },
+        {
+          "question": "În șocul compensat și în cel decompensat se constată:",
+          "answers": [
+            "a) hiperaminacidemie și hiperproteinemie;",
+            "b) hiperaminacidemie și hipoproteinemie;",
+            "c) hipoaminacidemie și hiperproteinemie;",
+            "d) hipoaminacidemie și hipoproteinemie;",
+            "e) hipocolesterolemie și hipoaminacidemie."
+          ],
+          "correct_answer": "b) hiperaminacidemie și hipoproteinemie;"
+        },
+        {
           "question": "În șocul compensat, la nivelul metabolismului hidro-mineral se constată:",
           "answers": [
             "a)reținerea apei și Na+ la nivel vascular;",
@@ -924,17 +968,6 @@
             "e)transferul apei din spatiul interstitial in cel intracelular."
           ],
           "correct_answer": "a)reținerea apei și Na+ la nivel vascular;"
-        },
-        {
-          "question": "În șocul decompensat se constată:",
-          "answers": [
-            "a)hiperglicemie și intensificarea metabolizării hepatice a lipidelor;",
-            "b)hipoglicemie și intensificarea metabolizării hepatice a lipidelor;",
-            "c)hiperglicemie și acumularea lipidelor la nivelul ficatului (încărcare grasă);",
-            "d)hipoglicemie și acumularea lipidelor la nivelul ficatului (încărcare grasă);",
-            "e)hiperglicemie și acumularea lipidelor la nivelul rinichiului (încărcare grasă)."
-          ],
-          "correct_answer": "d)hipoglicemie și acumularea lipidelor la nivelul ficatului (încărcare grasă);"
         },
         {
           "question": "În șocul decompensat, la nivelul metabolismului hidro-mineral se constată:",
@@ -1090,227 +1123,6 @@
             "e) infarctizare."
           ],
           "correct_answer": "b) CID;"
-        },
-        {
-          "question": "În rinichiul de șoc decompensat (insuficiență de organ) se constată:",
-          "answers": [
-            "a) hiperglicemie;",
-            "b) hipocalcemie;",
-            "c) hipoalbuminiemie;",
-            "d) anurie; ",
-            "e) apnee."
-          ],
-          "correct_answer": "d) anurie;"
-        },
-        {
-          "question": "În intestinul de șoc decompensat (insuficiență de organ) se constată:",
-          "answers": [
-            "a) hipocalcemia;",
-            "b) voma;",
-            "c) constipație;",
-            "d) ulceratii intestinale; ",
-            "e) diaree."
-          ],
-          "correct_answer": "d) ulceratii intestinale;"
-        },
-        {
-          "question": "Care dintre manifestările patologice menționate mai jos intră în categoria inflamațiilor?",
-          "answers": [
-            "a) dermatosis;",
-            "b) nefrită;",
-            "c) hepatosis;",
-            "d) miocardoză;",
-            "e) hepatosteatoză."
-          ],
-          "correct_answer": "b) nefrită;"
-        },
-        {
-          "question": "Șocul hipovolemic poate fi indus de:",
-          "answers": [
-            "a) aritmii cardiace;",
-            "b) embolii pulmonare;",
-            "c) poliurie; ",
-            "d) insuficiențe valvulare;",
-            "e) stenoze valvulare."
-          ],
-          "correct_answer": "c) poliurie;"
-        },
-        {
-          "question": "Șocul disvolemic poate fi indus de:",
-          "answers": [
-            "a) aritmii cardiace;",
-            "b) embolii pulmonare;",
-            "c) reacția anafilactică;",
-            "d) insuficiențe valvulare;",
-            "e) stenoze valvulare."
-          ],
-          "correct_answer": "c) reacția anafilactică;"
-        },
-        {
-          "question": "Șocul cardiogen poate fi indus de:",
-          "answers": [
-            "a) plasmoragii;",
-            "b) hemoragii;",
-            "c) stenoze valvulare;",
-            "d) insuficiența renală;",
-            "e) ischemie renală."
-          ],
-          "correct_answer": "c) stenoze valvulare;"
-        },
-        {
-          "question": "Reacțiile inflamatorii consecutive acțiunii factorilor flogogeni de natura chimică intră în categoria inflamațiilor:",
-          "answers": [
-            "a) mecanice;",
-            "b) septice;",
-            "c) hiperergice;",
-            "d) neimunologice;",
-            "e) imunologice."
-          ],
-          "correct_answer": "d) neimunologice;"
-        },
-        {
-          "question": "Reacțiile inflamatorii consecutive acțiunii factorilor flogogeni septici intră în categoria inflamațiilor:",
-          "answers": [
-            "a) mecanice;",
-            "b) aseptice;",
-            "c) hiperergice;",
-            "d) neimunologice;",
-            "e) imunologice; "
-          ],
-          "correct_answer": "e) imunologice"
-        },
-
-        {
-          "question": "În șocul compensat și în cel decompensat se constată:",
-          "answers": [
-            "a)hiperaminacidemie și hiperproteinemie;",
-            "b)hiperaminacidemie și hipoproteinemie;",
-            "c)hipoaminacidemie și hiperproteinemie;",
-            "d)hipoaminacidemie și hipoproteinemie;",
-            "e)hipocolesterolemie si hipoaminacidemie."
-          ],
-          "correct_answer": "b)hiperaminacidemie și hipoproteinemie;"
-        },
-        {
-          "question": "În șocul compensat, la nivelul metabolismului hidro-mineral se constată:",
-          "answers": [
-            "a) reținerea apei și Na+ la nivel vascular;",
-            "b) transferul apei și Ca++ din spațiul interstițial în cel intracelular;",
-            "c) transferul apei din spațiul vascular în cel interstițial ;",
-            "d) anemie;",
-            "e) transferul apei din spatiul interstitial in cel intracelular."
-          ],
-          "correct_answer": "a) reținerea apei și Na+ la nivel vascular;"
-        },
-        {
-          "question": "În șocul decompensat, la nivelul metabolismului hidro-mineral se constată:",
-          "answers": [
-            "a) reținerea apei și Na+ la nivel vascular;",
-            "b) reținerea apei și Na+ in spațiul intracelular (edem celular);",
-            "c) transferul apei din spațiul interstițial în cel vascular;",
-            "d) anemie;",
-            "e) transferul apei catre spatiul vascular."
-          ],
-          "correct_answer": "b) reținerea apei și Na+ in spațiul intracelular (edem celular);"
-        },
-        {
-          "question": "În ficatul de șoc decompensat (insuficiență de organ) se constată:",
-          "answers": [
-            "a) status hipercoagulant;",
-            "b) amplificarea funcției antitoxice;",
-            "c) amplificarea neoglucogenezei;",
-            "d) diminuarea metabolizarii pigmentior biliari;",
-            "e) hipocalcemie"
-          ],
-          "correct_answer": "d) diminuarea metabolizarii pigmentior biliari;"
-        },
-        {
-          "question": "În rinichiul de șoc decompensat (insuficiență de organ) se constată:",
-          "answers": [
-            "a) insuficienta renala;",
-            "b) poliurie",
-            "c) nefroză;",
-            "d) anemie;",
-            "e) nefrita."
-          ],
-          "correct_answer": "a) insuficienta renala;"
-        },
-        {
-          "question": "În șocul compensat se constată:",
-          "answers": [
-            "a) transferul în sens extracelular a K+ și intracelular a Ca++;",
-            "b) transferul în sens intracelular a K+ și a Ca++;",
-            "c) transferul în sens intraacelular a K+ și extraacelular a Ca++;",
-            "d) transferul în sens extracelular a K+ și a Ca++;",
-            "e) anemie."
-          ],
-          "correct_answer": "c) transferul în sens intraacelular a K+ și extraacelular a Ca++;"
-        },
-        {
-          "question": "În șocul decompensat se constată:",
-          "answers": [
-            "a) transferul în sens extracelular a K+ și intracelular a Ca++;",
-            "b) transferul în sens intracelular a K+ și a Ca++;",
-            "c) transferul în sens intraacelular a K+ și extraacelular a Ca++;",
-            "d) transferul în sens extracelular a K+ și a Ca++;",
-            "e) anemie."
-          ],
-          "correct_answer": "a) transferul în sens extracelular a K+ și intracelular a Ca++;"
-        },
-        {
-          "question": "În șocul decompensat, acumularea intracelulară a Ca++ determină:",
-          "answers": [
-            "a) edem celular;",
-            "b) aritmii cardiace;",
-            "c) activarea proteazelor celulare;",
-            "d) anemie;",
-            "e) calcinoza."
-          ],
-          "correct_answer": "c) activarea proteazelor celulare;"
-        },
-        {
-          "question": "În șocul decompensat, acumularea extracelulară a K+ determină:",
-          "answers": [
-            "a) edem celular;",
-            "b) aritmii cardiace;",
-            "c) activarea proteazelor celulare;",
-            "d) anemie;",
-            "e) edem celular."
-          ],
-          "correct_answer": "b) aritmii cardiace;"
-        },
-        {
-          "question": "În șocul decompensat, acumularea intracelulară a Na+ determină:",
-          "answers": [
-            "a) edem celular;",
-            "b) aritmii cardiace;",
-            "c) activarea proteazelor celulare;",
-            "d) hipocalcemie;",
-            "e) edeme generalizate."
-          ],
-          "correct_answer": "a) edem celular;"
-        },
-        {
-          "question": "Cauza edemului celular, specific șocului decompensat, este:",
-          "answers": [
-            "a) inactivarea pompei de Ca++;",
-            "b) inactivarea pompei de Na+/K+;",
-            "c) activarea pompei de Ca++;",
-            "d) variantele b și c;",
-            "e) hiperactivitatea pompei de Na+/K+."
-          ],
-          "correct_answer": "b) inactivarea pompei de Na+/K+;"
-        },
-        {
-          "question": "Cauza acumulării intracelulare a Ca++, specific șocului decompensat, este:",
-          "answers": [
-            "a)inactivarea pompei de Ca++;",
-            "b)inactivarea pompei de Na+/Ca++;",
-            "c)activarea pompei de Ca++;",
-            "d)activarea pompei de Na+/Ca++;",
-            "e)hiperactivitatea pompei de Na+/Ca++;"
-          ],
-          "correct_answer": "a)inactivarea pompei de Ca++;"
         },
         {
           "question": "În rinichiul de șoc decompensat (insuficiență de organ) se constată:",
@@ -1852,7 +1664,7 @@
           "correct_answer": "b) Piretroid"
         },
         {
-          "question": "Printre inhibitorii de dezvoltare ai insectelor (IDI) se numără:",
+          "question": "   hibitorii de dezvoltare ai insectelor (IDI) se numără:",
           "answers": [
             "a) Ciromazin",
             "b) Fenoxicarb",
