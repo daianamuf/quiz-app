@@ -269,13 +269,13 @@
         {
           "question": "Faza a II-a a etapei vasculare a reacției inflamatorii se concretizează prin:",
           "answers": [
-            "a)vasodilatație arterio-capilară și venoasă (postcapilară), urmată de vasoconstricție venoasă;",
-            "b)vasodilatație arterio-capilară și venoasă (postcapilară), urmată de vasoconstricție arteriocapilară;",
-            "c)vasodilatație arterio-capilară și vasoconstricție venoasă (postcapilară), urmată de vasodilatație arterio-capilară și venoasă;",
-            "d)vasodilatație arterio-capilară și vasoconstricție venoasă (postcapilară), urmată de vasoconstricție arterio-capilară și venoasă;",
-            "e)vasodilatație arterio-capilară, urmată de vasoconstricție arterio-capilară și venoasă."
+            "a) vasodilatație arterio-capilară și venoasă (postcapilară), urmată de vasoconstricție venoasă;",
+            "b) vasodilatație arterio-capilară și venoasă (postcapilară), urmată de vasoconstricție arteriocapilară;",
+            "c) vasodilatație arterio-capilară și vasoconstricție venoasă (postcapilară), urmată de vasodilatație arterio-capilară și venoasă;",
+            "d) vasodilatație arterio-capilară și vasoconstricție venoasă (postcapilară), urmată de vasoconstricție arterio-capilară și venoasă;",
+            "e) vasodilatație arterio-capilară, urmată de vasoconstricție arterio-capilară și venoasă."
           ],
-          "correct_answer": "c)vasodilatație arterio-capilară și vasoconstricție venoasă (postcapilară), urmată de vasodilatație arterio-capilară și venoasă."
+          "correct_answer": "c) vasodilatație arterio-capilară și vasoconstricție venoasă (postcapilară), urmată de vasodilatație arterio-capilară și venoasă;"
         },
         {
           "question": "Manifestările fazei a II-a a etapei vasculare a reacției inflamatorii, care se concretizează prin vasodilatație arterio-capilară și vasoconstricție venoasă (postcapilară), se datorează:",
@@ -1011,7 +1011,7 @@
             "d)transferul în sens extracelular a K+ și a Ca++;",
             "e)anemie."
           ],
-          "correct_answer": "a)transferul în sens extracelular a K+ și intracelular a Ca++;"
+          "correct_answer": "c)transferul în sens intraacelular a K+ și extraacelular a Ca++;"
         },
         {
           "question": "În șocul decompensat se constată:",
@@ -1022,7 +1022,7 @@
             "d)transferul în sens extracelular a K+ și a Ca++;",
             "e)anemie."
           ],
-          "correct_answer": "c)transferul în sens intraacelular a K+ și extraacelular a Ca++;"
+          "correct_answer": "a)transferul în sens extracelular a K+ și intracelular a Ca++;"
         },
         {
           "question": "În șocul decompensat, acumularea intracelulară a Ca++ determină:",
@@ -4391,7 +4391,7 @@
             "d) teritoriu maro-negricios",
             "e) afectează frecvent extremitățile"
           ],
-          "correct_answer": "a) aspect pergamentos"
+          "correct_answer": "c) caracter crepitant"
         },
         {
           "question": "Ce țesut / organ nu este sediul gangrenei umede?",
@@ -4413,7 +4413,7 @@
             "d) afluxul leucocitar de la periferia focarului",
             "e) necroza astructurată"
           ],
-          "correct_answer": "e) necroza astructurată"
+          "correct_answer": "b) capsula conjunctivă care delimitează necroza"
         },
         {
           "question": "Formațiune sferică cu un conținut lichid, limpede, delimitată de o capsulă conjunctivă și care delimitează suprafața pulmonului este descrierea pentru:",
@@ -4468,7 +4468,7 @@
             "d) histopatologic",
             "e) imunohistochimic"
           ],
-          "correct_answer": "c) citologic"
+          "correct_answer": "e) imunohistochimic"
         },
         {
           "question": "Alegeţi enunţul corect:",
@@ -4545,7 +4545,7 @@
             "d) sfingomielinoza",
             "e) colesteatoza"
           ],
-          "correct_answer": "a) Hialinoza"
+          "correct_answer": "c) elastoza"
         },
         {
           "question": "Alegeți metabolitul care histopatologic este ușor PAS pozitiv și manifestă metacromazie la metil violet:",
@@ -4633,7 +4633,7 @@
             "d) tumora veneriană transmisibilă – elastoliză",
             "e) carcinom mucinos – amiloidoză"
           ],
-          "correct_answer": "d) tumora veneriană transmisibilă – elastoliză"
+          "correct_answer": "c) unele tumori mamare - colesteatoza"
         },
         {
           "question": "Histopatologic, diagnosticul diferențial în hialinoza musculară se realizează față de:",
@@ -4809,7 +4809,7 @@
             "d) în miopatiile nutriționale, cu păstrarea membranei bazale și a celulelor miosatelite",
             "e) în plăgile chirurgicale cu excizia unui fragment de țesut muscular"
           ],
-          "correct_answer": "a) când sunt afectate celulele miosatelite"
+          "correct_answer": "d) în miopatiile nutriționale, cu păstrarea membranei bazale și a celulelor miosatelite"
         },
         {
           "question": "Ce reprezintă calusul osos primar?",
@@ -4820,7 +4820,7 @@
             "d) un țesut osos matur, remodelat după liniile de forță",
             "e) osificarea calusului fibros, cu depunerea ionilor de calciu și fosfor"
           ],
-          "correct_answer": "c) un manșon conjunctiv care unește capetele osoase"
+          "correct_answer": "e) osificarea calusului fibros, cu depunerea ionilor de calciu și fosfor"
         },
         {
           "question": "În regenerarea / vindecarea nervilor periferici, un rol important îl dețin:",
